@@ -2,7 +2,8 @@
 
 namespace helper
 {
-    public class Class1
+    public string hellogit()
     {
+        return "hello git";
     }
 }
